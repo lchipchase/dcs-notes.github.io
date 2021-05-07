@@ -34,3 +34,7 @@ Detailed handwritten notes for CS126 by **Josh Fitzmaurice** which cover the ent
 
 1. [Part 1](./cs126-notes-1.pdf)
 2. [Part 2](./cs126-notes-2.pdf)
+
+A set of flash cards for CS126 by **Leon Chipchase** which cover the entire module are found below. (Please message me (07435326045) if there are any changes to be made or anything is incorrect)
+
+1. [Flashcards](./https://quizlet.com/_99y5l2?x=1jqt&i=18al03)
