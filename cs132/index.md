@@ -32,3 +32,8 @@ These notes will likely take the same/similar form to the CS118 notes. The prima
 4. [x] [Memory systems](part4.html)
 5. [x] [I/O mechanisms](part5.html)
 6. [ ] Processor architecture
+
+Here are a set of flashcards for the module by **Leon Chipchase** (they still need to be refined), and please message me if there is something incorrect on there.
+
+- [Flash cards](https://quizlet.com/_9pgkq4?x=1jqt&i=18al03)
+
