@@ -20,4 +20,9 @@ There are N pages for theory
 2. [ ] [Web Servers](Theory2.html)
 3. [ ] [GET and POST](Theory2.html)
 4. 
-5. 
+
+
+
+Here are a set of flashcards for the module (they still need to be refined), and please message me if there is something incorrect on there.
+
+- [Flash cards](https://quizlet.com/_99cgos?x=1jqt&i=18al03)
